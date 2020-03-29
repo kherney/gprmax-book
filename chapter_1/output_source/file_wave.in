@@ -1,0 +1,8 @@
+#domain: 0.1 0.1 0.02
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 5e-9
+#pml_cells: 1
+
+#excitation_file: my_waveform.txt 
+#hertzian_dipole: x 0.04 0.09 0.01 my_pulse
+#rx: 0.06 0.09 0.01

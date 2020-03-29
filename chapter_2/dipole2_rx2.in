@@ -1,0 +1,15 @@
+#domain: 0.1 0.1 0.08
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 5e-9
+#pml_cells: 1
+
+#waveform: gaussian 3 2e9 gaussian_wave
+#waveform: ricker 3 2e9 ricker_wave 
+
+#hertzian_dipole: x 0.04 0.09 0.01 gaussian_wave
+#voltage_source: z 0.04 0.09 0.06 40 ricker_wave 
+
+#rx: 0.06 0.09 0.01 rx_voltage Ex Ey Ez
+#rx: 0.06 0.09 0.06 rx_hertzian Hx Hy Hz
+
+#geometry_view: 0 0 0 0.1 0.1 0.02 0.002 0.002 0.002 hertz2_dipole2 n

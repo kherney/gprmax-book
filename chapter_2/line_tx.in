@@ -1,0 +1,10 @@
+#domain: 0.1 0.1 0.02
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 3e-9
+#pml_cells: 1
+
+#waveform: gaussian 1 5e6 wave_line
+#transmission_line: x 0.04 0.09 0.01 70 wave_line
+#rx: 0.06 0.09 0.01 rx_line Ex Ey Ez Hx Hy Hz
+
+#geometry_view: 0 0 0 0.1 0.1 0.02 0.002 0.002 0.002 wave_line n

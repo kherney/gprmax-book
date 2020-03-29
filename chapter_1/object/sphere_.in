@@ -1,0 +1,7 @@
+#domain: 0.2 0.2 0.3
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 3e-9
+#pml_cells: 1
+
+#sphere: 0.1 0.1 0.15 0.009 pec
+#geometry_view: 0 0 0 0.2 0.2 0.3 0.002 0.002 0.002 sphere n

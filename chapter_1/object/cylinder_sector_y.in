@@ -1,0 +1,7 @@
+#domain: 0.2 0.2 0.2
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 3e-9
+#pml_cells: 1
+
+#cylindrical_sector: y 0.1 0.1 0.1 0.15 0.02 30 300 pec
+#geometry_view: 0 0 0 0.2 0.2 0.2 0.002 0.002 0.002 cyindrical_sector_y n

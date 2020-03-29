@@ -1,0 +1,8 @@
+#domain: 0.1 0.1 0.02
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 5e-9
+#pml_cells: 1
+
+#waveform: gaussian 5 2e9 my_wave
+#voltage_source: x 0.04 0.09 0.01 10 my_wave 1e-9 1.75e-9
+#rx: 0.06 0.09 0.01 my_rx2 Ex

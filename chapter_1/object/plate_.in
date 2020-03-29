@@ -1,0 +1,12 @@
+#domain: 1 1 0.02
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 3e-9
+#pml_cells: 1
+
+#material: 3 0 1 0 pvc
+
+#box: 0.1 0.1 0 0.7 0.7 0.02 pvc
+#plate: 0.5 0.5 0.02 0.7 0.8 0.02 pec
+
+triangle: 0.5 0.7 0 0.22 0.17 0 0.8 0.17 0 0.02 pec
+#geometry_view: 0 0 0 1 1 0.02 0.002 0.002 0.002 plate n

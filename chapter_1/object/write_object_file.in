@@ -1,0 +1,7 @@
+#domain: 0.240 0.210 0.12
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 3e-9
+
+#geometry_objects_write: 0 0 0 0.1 0.1 0.1 file_generated
+
+geometry_view: 0 0 0 0.240 0.210 0.12 0.002 0.002 0.002 my_1st_espacio_Libre n

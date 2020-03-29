@@ -1,0 +1,8 @@
+#domain: 0.10 0.10 0.10
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 3e-9
+
+#pml_cells: 5
+#box: 0 0 0 0.1 0.1 0.1 pec
+#geometry_view: 0 0 0 0.1 0.1 0.1 0.002 0.002 0.002 pml n
+

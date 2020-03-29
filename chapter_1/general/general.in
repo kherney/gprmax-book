@@ -1,0 +1,5 @@
+include_file: archivo_externo.txt
+#include_file: /home/tosh/gprmax-book/chapter_1/general/archivo_externo.txt
+#title: Titulo de prueba en una sola linea de comando 
+#output_dir: /home/tosh/gprmax-book/chapter_1/general/output_files/
+

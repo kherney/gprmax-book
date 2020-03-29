@@ -1,0 +1,15 @@
+#domain: 0.2 0.2 0.2
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 3e-9
+#pml_cells: 1
+
+Cilindro direccion x
+#cylinder: 0.01 0.01 0.01 0.1 0.01 0.01 0.009 pec
+
+Cilindro direccion y
+#cylinder: 0.1 0.01 0.01 0.1 0.08 0.01 0.009 pec
+
+Cilindro direccion z
+#cylinder: 0.1 0.08 0.01 0.1 0.08 0.15 0.009 pec
+
+#geometry_view: 0 0 0 0.2 0.2 0.2 0.002 0.002 0.002 cylinder_xyz n
