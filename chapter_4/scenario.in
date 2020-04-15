@@ -1,0 +1,23 @@
+#domain: 2 1 0.02
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 10e-9
+
+#material: 6 0 1 0 half_space
+#material: 81 0 1 0 water
+#material: 3 0 1 0 PVC
+#pml_cells: 1
+
+#waveform: ricker 1 0.8e9 my_ricker
+#hertzian_dipole: z 0.02 0.9 0 my_ricker
+#rx: 0.1 0.9 0
+
+#src_steps: 0.1 0 0
+#rx_steps: 0.1 0 0
+
+#box: 0 0 0 2 1 0.02 half_space
+#cylinder: 1 0.3 0 1 0.3 0.02 0.165 PVC
+#cylinder: 1 0.3 0 1 0.3 0.02 0.15 free_space
+#cylindrical_sector: z 1 0.3 0 0.02 0.15 240 60 water
+#triangle: 1 0.31 0 0.92 0.17 0 1.085 0.17 0 0.02 free_space
+
+#geometry_view: 0 0 0 2 1 0.02 0.002 0.002 0.002 full_scenario n 
